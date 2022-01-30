@@ -1,0 +1,7 @@
+/home/lb/vslam/mybook/ch6/build/CMakeFiles/rebuild_cache.dir
+/home/lb/vslam/mybook/ch6/build/CMakeFiles/ceresCurveFitting.dir
+/home/lb/vslam/mybook/ch6/build/CMakeFiles/g2oCurveFitting.dir
+/home/lb/vslam/mybook/ch6/build/CMakeFiles/myg2o.dir
+/home/lb/vslam/mybook/ch6/build/CMakeFiles/myg2o2.dir
+/home/lb/vslam/mybook/ch6/build/CMakeFiles/gaussNewton.dir
+/home/lb/vslam/mybook/ch6/build/CMakeFiles/edit_cache.dir

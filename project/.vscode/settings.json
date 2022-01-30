@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.ipp": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "__split_buffer": "cpp",
+        "list": "cpp",
+        "core": "cpp"
+    }
+}

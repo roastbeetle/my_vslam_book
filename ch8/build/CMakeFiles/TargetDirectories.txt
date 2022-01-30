@@ -1,0 +1,4 @@
+/home/lb/vslam/mybook/ch8/build/CMakeFiles/rebuild_cache.dir
+/home/lb/vslam/mybook/ch8/build/CMakeFiles/edit_cache.dir
+/home/lb/vslam/mybook/ch8/build/CMakeFiles/direct_method.dir
+/home/lb/vslam/mybook/ch8/build/CMakeFiles/semi_dense.dir
