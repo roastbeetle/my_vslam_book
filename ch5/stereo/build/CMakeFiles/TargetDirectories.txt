@@ -1,0 +1,3 @@
+/home/lb/vslam/mybook/ch5/stereo/build/CMakeFiles/rebuild_cache.dir
+/home/lb/vslam/mybook/ch5/stereo/build/CMakeFiles/stereoVision.dir
+/home/lb/vslam/mybook/ch5/stereo/build/CMakeFiles/edit_cache.dir

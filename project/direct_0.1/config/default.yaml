@@ -1,0 +1,27 @@
+%YAML:1.0
+# data
+# the tum dataset directory, change it to yours! 
+dataset_dir: /home/lb/vslam/mybook/project/rgbd_dataset_freiburg2_pioneer_slam
+associate_dir: /home/lb/vslam/mybook/project
+
+# camera intrinsics
+# fr1
+camera_fx: 517.3
+camera_fy: 516.5
+camera_cx: 318.6
+camera_cy: 255.3
+
+# fr2
+#camera.fx: 520.9
+#camera.fy: 521.0
+#camera.cx: 325.1
+#camera.cy: 249.7
+
+depth_scale: 5000
+
+# VO Parameters
+kp_min_norm_: 150
+max_num_lost: 20
+keyframe_rotation: 0.02
+keyframe_translation: 0.1
+false_norm: 1.0

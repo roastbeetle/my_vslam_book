@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/visualizeGeometry.dir/visualizeGeometry.cpp.o  -o visualizeGeometry -Wl,-rpath,/home/lb/vslam/Pangolin/build/src /home/lb/vslam/Pangolin/build/src/libpangolin.so -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lX11 -lXext -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lX11 -lXext 
